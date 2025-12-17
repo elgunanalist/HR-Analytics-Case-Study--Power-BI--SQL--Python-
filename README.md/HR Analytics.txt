@@ -1,0 +1,20 @@
+# HR Analytics – Employee Attrition Analysis
+
+This project analyzes employee attrition data using Excel.
+
+## Overview
+The dashboard focuses on:
+- Employee attrition rate
+- HR KPIs
+- Department and role-based analysis
+- Workforce trends
+
+## Tools
+- Microsoft Excel
+- Pivot Tables
+- HR KPIs
+- Data cleaning
+
+## Author
+Elgün Rüstəmov
+
