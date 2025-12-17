@@ -13,8 +13,6 @@ The dashboard focuses on:
 - Microsoft Excel
 - Pivot Tables
 - HR KPIs
-- Data cleaning
 
 ## Author
 Elgün Rüstəmov
-
